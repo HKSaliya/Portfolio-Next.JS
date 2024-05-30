@@ -1,4 +1,4 @@
-// File: C:\HK\GitAmbroxPractice\nextjstutor\nextjstutor\app\layout.tsx
+// File: C:\Users\a\Documents\GitHub\Portfolio-Next.JS\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
